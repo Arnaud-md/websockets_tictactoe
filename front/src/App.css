@@ -4,7 +4,24 @@
   padding: 2rem;
   text-align: center;
 }
-
+.cadre {
+  width: 300px;
+  height:300px;
+  border:3px solid black;
+}
+.box {
+  width:94px;
+  height:94px;
+  border:3px solid black;
+}
+.line {
+  display: flex;
+  flex-direction: row;
+}
+.symbol {
+  font-size:60px;
+  text-align: center;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
